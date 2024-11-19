@@ -5,19 +5,19 @@
 
 Clone the repository
 
-'''bash 
+```bash 
 Project repo: https://github.com/
-'''
+```
 
-'''bash
+```bash
 conda create -n chatbot_llm python=3.10 -y
-'''
+```
 
-'''bash
+```bash
 conda activate chatbot_llm
-'''
+```
 
 ### Step-2: Install the requirements.txt
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
