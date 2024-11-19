@@ -20,7 +20,7 @@ Activate the virtual environment
 conda activate chatbot_llm
 ```
 
-### Step-4: Install the requirements.txt
+# Step-4: Install the requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
