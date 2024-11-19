@@ -1,7 +1,6 @@
-# chatbot
+### GenAI chatbot project
 
-## How to run ?
-### Procedure
+## Procedure
 
 # Step-1
 Clone the repository
